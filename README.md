@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andy!
-- 👀 I’m interested in Javascript, TypeScript, Node.js, HTML, CSS, Angular, Python and all the tools that go with these things. 
-- 🌱 I’m currently learning about Front End WebDev and whatever else grabs my attention!
+- 👀 I’m interested in Javascript, TypeScript, Node.js, Ruby, Rails, Angular, Python and all the tools that go with these things. 
+- 🌱 I’m currently learning about Fullstack Developement and whatever else grabs my attention!
 - 📫 How to reach me: andymoore88@hotmail.com
 
 <!---
