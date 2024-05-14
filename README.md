@@ -19,8 +19,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simpleenigma88&show_icons=true&theme=radical&title_color=f4f0f0&text_color=f2f2f2&bg_color=003865&locale=en&layout=compact" alt="simpleenigma88" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simpleenigma88)](https://github.com/anuraghazra/github-readme-stats)
-
 <!---
 SimpleEnigma88/SimpleEnigma88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
