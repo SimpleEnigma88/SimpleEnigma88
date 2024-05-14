@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simpleenigma88&label=Profile%20views&color=0e75b6&style=flat" alt="simpleenigma88" /> </p>
 
-- 🔭 I’m currently working on [a 5e DnD Loot Treasure generator and party loot tool](https://github.com/SimpleEnigma88/shop_keeper.git)
+- 🔭 I’m currently working on Node.js and Codefi employer projects!
 
-- 🌱 I’m currently learning **Angular, Ruby on Rails**
+- 🌱 I’m currently learning **Angular, Ruby on Rails, MongoDB**
 
 - 📫 How to reach me **ra.moore573@gmail.com.**
 
