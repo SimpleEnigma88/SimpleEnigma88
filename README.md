@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Node.js and Codefi employer projects!
 
-- 🌱 I’m currently learning **Angular, Ruby on Rails, MongoDB**
+- 🌱 I’m currently learning **NodeJS, Express and MongoDB**
 
 - 📫 How to reach me **ra.moore573@gmail.com.**
 
