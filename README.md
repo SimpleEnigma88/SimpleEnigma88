@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simpleenigma88&label=Profile%20views&color=0e75b6&style=flat" alt="simpleenigma88" /> </p>
 
-- 🔭 I’m currently working on Node.js and Codefi employer projects!
-
-- 🌱 I’m currently learning **NodeJS, Express and MongoDB**
+- 🌱 I’m currently learning **jQuery, Javascript, msSQL, mySQL and MongoDB**
 
 - 📫 How to reach me **ra.moore573@gmail.com.**
 
